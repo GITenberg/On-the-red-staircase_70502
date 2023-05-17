@@ -1,0 +1,34 @@
+_repo: On-the-red-staircase_70502
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Taylor, Mary Imlay
+    alias: Taylor, M. Imlay (Mary Imlay)
+    birthdate: 1878
+    deathdate: 1938
+    gutenberg_agent_id: '48463'
+    url: http://www.gutenberg.org/2009/agents/48463
+description: A story of Russia in the youthful days of Peter the Great.
+gutenberg_issued: '2023-04-08'
+identifiers:
+  gutenberg: '70502'
+language: en
+pgterms:marc904: https://archive.org/details/onredstaircase00tayliala/mode/2up
+pgterms:marc905: 20220130153807taylor
+pgterms:marc906: '1896'
+pgterms:marc907: us
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: '  $aUnited States :$bA. C. McClurg & Company, $c1896.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Historical fiction'
+- !lcsh 'Peter I, Emperor of Russia, 1672-1725 -- Fiction'
+- !lcsh 'Russia -- History -- Sofia Alekseevna, 1682-1689 -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: On the red staircase
+url: http://www.gutenberg.org/ebooks/70502
