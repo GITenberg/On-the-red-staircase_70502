@@ -1,5 +1,8 @@
 _repo: On-the-red-staircase_70502
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70502-h/images/cover.jpg
 creator:
   author:
     agent_name: Taylor, Mary Imlay
@@ -9,6 +12,8 @@ creator:
     gutenberg_agent_id: '48463'
     url: http://www.gutenberg.org/2009/agents/48463
 description: A story of Russia in the youthful days of Peter the Great.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70502#On-the-red-staircase
 gutenberg_issued: '2023-04-08'
 identifiers:
   gutenberg: '70502'
